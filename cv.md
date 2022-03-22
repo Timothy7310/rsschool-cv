@@ -57,3 +57,8 @@ __Kuban State University__:
 __Udemy__:
 * [JavaScript](https://www.udemy.com/course/javascript_full/)
 * [Vue](https://www.udemy.com/course/vue-and-vuex-writing-real-project-from-scratch/)
+
+## English
+B1 Intermediate
+
+![Score](img/score.jpg)
