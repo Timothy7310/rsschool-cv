@@ -18,3 +18,33 @@ Senior year student and Junior Frontend Developer, interested in web-performance
 * Vue 3 (Basic)
 * Figma
 * Git
+
+## Code Example
+Second task of SberFight 2022
+```
+function getResult(nums, targets) {
+  let sum;
+  let counter = 0;
+
+  let copyNums = [...nums];
+  let copyTargets = [...targets];
+
+  for(let n = 0; n < copyNums.length; n++){
+
+    for(let i = 0; i < copyNums.length; i++){
+
+      for(let z = 0; z < copyTargets.length; z++){
+        sum = copyNums[n] + copyNums[i];
+        if(n !== i && sum === copyTargets[z]){
+          counter++;
+          copyNums.push(sum);
+          copyTargets.splice(z, 1);
+        }
+      }
+      
+    }
+
+  }
+  console.log(counter);
+}
+```
