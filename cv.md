@@ -48,3 +48,12 @@ function getResult(nums, targets) {
   console.log(counter);
 }
 ```
+
+## Education
+__Kuban State University__:
+* Bachelor: Physicist.
+* Master's degree: Information systems and technologies.
+
+__Udemy__:
+* [JavaScript](https://www.udemy.com/course/javascript_full/)
+* [Vue](https://www.udemy.com/course/vue-and-vuex-writing-real-project-from-scratch/)
