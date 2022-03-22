@@ -10,3 +10,11 @@
 
 ## About Me
 Senior year student and Junior Frontend Developer, interested in web-performance and a11y issues. You can see my last projects on my [site](https://tpopovsky.ru/).
+
+## Skills
+* HTML and CSS
+* CSS preprocessors
+* JavaScript (Basic)
+* Vue 3 (Basic)
+* Figma
+* Git
